@@ -60,5 +60,3 @@ After the initial installation, simply activate your virtual environment and sta
 source .venv/bin/activate
 python -m streamlit run viewer.py
 ```
-
-The viewer uses `data/combined_puns.json` and does not modify the dataset.
